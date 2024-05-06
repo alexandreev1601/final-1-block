@@ -16,3 +16,8 @@ foreach (var value in array) {
   }
 
 }
+
+for(int i = 0; i < result.Length; i++)
+{
+    System.Console.Write(result[i] + " ");
+}
